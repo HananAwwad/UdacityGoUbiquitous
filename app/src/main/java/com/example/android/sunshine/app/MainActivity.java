@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity implements ForecastFragment.
     public static final String PROPERTY_REG_ID = "registration_id";
     private static final String PROPERTY_APP_VERSION = "appVersion";
 
-    public static final String PROJECT_NUMBER = "sunshinewearable-1298";
+    public static final String PROJECT_NUMBER = "Your Project Number";
 
     private GoogleCloudMessaging mGcm;
 
